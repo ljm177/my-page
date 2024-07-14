@@ -45,7 +45,7 @@ function Main() {
   <section id="intro" className="main style1 dark fullscreen">
     <div className="content">
       <header>
-        <h2>Hey.</h2>
+        <h2>환영합니다!</h2>
       </header>
       <p>
         Welcome to <strong>Big Picture</strong> a responsive site template
