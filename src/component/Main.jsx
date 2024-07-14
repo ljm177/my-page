@@ -75,7 +75,7 @@ function Main() {
         <h2>What I Do</h2>
       </header>
       <p>
-        이 사이트의 소스는 
+        이 사이트의 소스는  {' '}
         <a href="https://github.com/ljm177/my-page">여기서</a> 확인할 수 있습니다. 
       </p>
     </div>
@@ -90,7 +90,7 @@ function Main() {
         <h2>Who I Am</h2>
       </header>
       <p>
-      깃허브는 
+      깃허브는 {' '}
       <a href="https://github.com/ljm177/">여기서</a> 확인할 수 있습니다. 
       </p>
     </div>
