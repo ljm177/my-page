@@ -48,14 +48,18 @@ function Main() {
         <h2>환영합니다!</h2>
       </header>
       <p>
-        Welcome to <strong>Big Picture</strong> a responsive site template
-        designed by <a href="https://html5up.net">HTML5 UP</a>
+      <a href="https://github.com/ljm177"><strong>ljm177</strong></a>
+      의 Github를 활용한 React.JS기반 프론트 배포를 확인하기 위한 페이지입니다. 
+      <br />
+        디자인 템플릿 by <a href="https://html5up.net">HTML5 UP</a>
         <br />
-        and released for free under the{" "}
+        템플릿 라이선스 👉
         <a href="https://html5up.net/license">
           Creative Commons Attribution license
         </a>
         .
+        <br/>
+        
       </p>
       <footer>
         <a href="#one" className="button style2 down">
@@ -71,10 +75,8 @@ function Main() {
         <h2>What I Do</h2>
       </header>
       <p>
-        Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore
-        condimentum. Fusce blandit ultrices sapien, in accumsan orci rhoncus eu.
-        Sed sodales venenatis arcu, id varius justo euismod in. Curabitur
-        egestas consectetur magna.
+        이 사이트의 소스는 
+        <a href="https://github.com/ljm177/my-page">여기서</a> 확인할 수 있습니다. 
       </p>
     </div>
     <a href="#two" className="button style2 down anchored">
@@ -88,10 +90,8 @@ function Main() {
         <h2>Who I Am</h2>
       </header>
       <p>
-        Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore
-        condimentum. Fusce blandit ultrices sapien, in accumsan orci rhoncus eu.
-        Sed sodales venenatis arcu, id varius justo euismod in. Curabitur
-        egestas consectetur magna.
+      깃허브는 
+      <a href="https://github.com/ljm177/">여기서</a> 확인할 수 있습니다. 
       </p>
     </div>
     <a href="#work" className="button style2 down anchored">
@@ -104,10 +104,7 @@ function Main() {
       <header>
         <h2>My Work</h2>
         <p>
-          Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore
-          condimentum. Fusce blandit ultrices sapien, in accumsan orci rhoncus
-          eu. Sed sodales venenatis arcu, id varius justo euismod in. Curabitur
-          egestas consectetur magna vitae.
+         
         </p>
       </header>
       {/* Gallery  */}
@@ -155,8 +152,8 @@ function Main() {
       <header>
         <h2>Say Hello.</h2>
         <p>
-          Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore
-          condimentum.
+          {/* Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore
+          condimentum. */}
         </p>
       </header>
       <div className="box">
